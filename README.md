@@ -113,7 +113,7 @@ Python_CheatSheets_Complete_Guide/
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
-💼 🎓 AI & Data Science Student | 💻 Developer | 🌍 Open Source Contributor
+💼 AI & Data Science Student | 💻 Developer | 🌍 Open Source Contributor
 
 📧 [Email](adarshlilhare@example.com)
 
