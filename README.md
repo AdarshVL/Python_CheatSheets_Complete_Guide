@@ -125,8 +125,7 @@ Python_CheatSheets_Complete_Guide/
 
 ---
 
-## ⭐ If you found this helpful, give this repository a star! ⭐
-### Your support motivates me to create more helpful developer resources. 🙌
+
 
 
 
